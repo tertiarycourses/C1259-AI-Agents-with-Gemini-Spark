@@ -1,0 +1,21 @@
+Made-up emails for Lab 1. All names and details are fictional.
+
+EMAIL 1
+Subject: [NORTHSTAR-LAB] Website enquiry from Bukit Bakes
+Hi Northstar, I am Mei from Bukit Bakes, a small bakery in Bukit Timah. Our site looks dated. Could we have a call next week?
+
+EMAIL 2
+Subject: [NORTHSTAR-LAB] Enquiry from Raj Motors: how much for a 5-page site?
+Hello, this is Raj from Raj Motors. How much would a five-page website cost, and how soon could you start?
+
+EMAIL 3
+Subject: [NORTHSTAR-LAB] Design Weekly newsletter #214
+This week: ten colour trends for small brands. Unsubscribe at any time.
+
+EMAIL 4
+Subject: [NORTHSTAR-LAB] Complaint about our launch date
+Hi, this is Sarah from Lumen Yoga. Our site launch slipped twice and nobody told me why. Please call me.
+
+EMAIL 5
+Subject: [NORTHSTAR-LAB] Receipt: Hosting plan S$24.00
+Thanks for your payment. Vendor: Example Hosting. Amount: S$24.00.

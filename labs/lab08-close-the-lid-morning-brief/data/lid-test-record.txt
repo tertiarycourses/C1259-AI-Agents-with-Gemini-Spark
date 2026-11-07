@@ -1,0 +1,7 @@
+Close-the-lid test (fictional company, your real result)
+
+Schedule set at: ______
+Lid closed at: ______
+Doc appeared? yes / no
+Time shown in the Doc: ______
+What this means for what I will schedule: ______

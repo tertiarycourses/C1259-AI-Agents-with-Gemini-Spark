@@ -11,3 +11,10 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local build sources and the WSQ source clone stay out of this repo
+.build/
+source-wsq/
+**/archive/
+.env
+.env.*

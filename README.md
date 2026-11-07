@@ -1,176 +1,68 @@
-<div align="center">
-
 # AI Agents with Gemini Spark
 
-[![Course](https://img.shields.io/badge/Course-C1259-1f6feb?style=for-the-badge)](https://www.tertiarycourses.com.sg/ai-agents-with-gemini-spark.html)
-[![Duration](https://img.shields.io/badge/Duration-2_days_15_instructional_hours-5E5E5E?style=for-the-badge)](#course-toolkit)
-[![Labs](https://img.shields.io/badge/Labs-12-34d399?style=for-the-badge)](labs/README.md)
-[![License](https://img.shields.io/badge/License-Educational-fbbf24?style=for-the-badge)](#license)
+Put Google's always-on agent to work across Gmail, Calendar, Drive, Docs, Sheets, Slides and Sites, with you in control of everything that leaves your account.
 
-**A connected, hands-on course in AI Agents with Gemini Spark — progress through 12 practical labs from Set Up Gemini Spark and Connect Your Google Workspace to Monitor, Improve and Scale Your AI Agents.**
+| Course detail | Information |
+|---|---|
+| Course code | `C1259` |
+| Programme | Non-WSQ |
+| Duration | 1 day, 7.5 instructional hours (9:30am - 5:30pm). No assessment |
+| Course fee | $350 before GST |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/ai-agents-with-gemini-spark.html) |
 
-[📘 Course Page](https://www.tertiarycourses.com.sg/ai-agents-with-gemini-spark.html) · [🧪 Hands-On Labs](labs/README.md) · [📖 Learner Guide](<LG-AI Agents with Gemini Spark (C1259).md>) · [🐛 Report Bug](https://github.com/tertiarycourses/C1259---AI-Agents-with-Gemini-Spark/issues) · [💡 Request Feature](https://github.com/tertiarycourses/C1259---AI-Agents-with-Gemini-Spark/issues)
+## About the course
 
-</div>
+You start with how AI got here: agentic AI vs AI agents, real use cases, and how Gemini Spark compares with Meta Muse, OpenAI Dots, Grok Bot and Manus Cue. The rest of the day is all Gemini Spark. You hand it goals, teach it your standards, put the repeat work on a schedule, and practise containing it when something goes wrong.
 
-> [!NOTE]
-> **These are the official hands-on lab materials for the commercial course:**
-> ### 🎓 AI Agents with Gemini Spark
-> **Course Code:** `C1259` · by Tertiary Courses / Tertiary Infotech<br>
-> **Duration:** 2 days · 15 instructional hours<br>
-> **Course page:** https://www.tertiarycourses.com.sg/ai-agents-with-gemini-spark.html
+You need a browser and a personal Google Account on Google AI Pro or Ultra. You do not need VS Code, Git, a terminal or a coding agent.
 
----
+## Learning outcomes
 
-## Lab Activities
+- **LO1:** Determine an AI-agent strategy: which work to hand to Gemini Spark, through which platforms, with which permissions and approval points.
+- **LO2:** Develop agent skills, tasks and content, and integrate them across Gmail, Docs, Sheets, Slides, Sites and Drive.
+- **LO3:** Develop an implementation plan for always-on Gemini Spark workflows, covering schedules, monitors, responsibilities, timelines, targets and rollback.
+- **LO4:** Evaluate agent performance using task outcomes, error rates and review effort, contain incidents, and optimise the workflow.
 
-The 12 labs form one connected practical journey. Complete them in order so each verified output can support the activities that follow.
+## Topics covered
 
-| # | Activity | Outcome |
-|---:|----------|---------|
-| **1** | [Set Up Gemini Spark and Connect Your Google Workspace](labs/lab-01-set-up-gemini-spark-and-connect-your-google-workspace.md) | Access Gemini Spark, connect it to Gmail, Calendar and Drive, and run a first supervised task. |
-| **2** | [See How Spark Works — Background Agents, Approvals and the Activity Log](labs/lab-02-see-how-spark-works-background-agents-approvals-and-the-acti.md) | Run a background task, use the approval gate, and inspect and undo actions from the activity log. |
-| **3** | [Instruct Your Agent — Effective Prompting and a Reusable Instruction Template](labs/lab-03-instruct-your-agent-effective-prompting-and-a-reusable-instr.md) | Write clear agent instructions and capture a reusable instruction template that gets good results first time. |
-| **4** | [Create One-Off Tasks for Research and Organisation](labs/lab-04-create-one-off-tasks-for-research-and-organisation.md) | Use one-off agent tasks to research a topic and to organise emails and Drive files. |
-| **5** | [Automate Email — Inbox Summaries and Reply Drafting](labs/lab-05-automate-email-inbox-summaries-and-reply-drafting.md) | Produce a prioritised inbox summary and have the agent draft replies in your voice for approval. |
-| **6** | [Work with Docs, Sheets and Slides — Generate, Review and Refine](labs/lab-06-work-with-docs-sheets-and-slides-generate-review-and-refine.md) | Have the agent create a Doc, populate a Sheet and draft a Slides deck, then review and refine each output. |
-| **7** | [Create a Custom Reusable Skill — the Ghostwriter](labs/lab-07-create-a-custom-reusable-skill-the-ghostwriter.md) | Turn a proven instruction into a named, reusable skill and run it repeatedly with different inputs. |
-| **8** | [Design Schedules and Conditional Triggers](labs/lab-08-design-schedules-and-conditional-triggers.md) | Schedule a skill to run automatically on a cadence and add a trigger that runs only when a condition is met. |
-| **9** | [Chain Multi-Step Workflows and Personalise Your Agent](labs/lab-09-chain-multi-step-workflows-and-personalise-your-agent.md) | Connect skills so one feeds the next into a single workflow, and personalise the agent so output needs less editing. |
-| **10** | [Automate Lead Management, Expenses and Planning](labs/lab-10-automate-lead-management-expenses-and-planning.md) | Build agent workflows that capture leads, log expenses and turn notes into a plan — end to end. |
-| **11** | [Coordinate Multi-App Workflows and Set Safe-Automation Guardrails](labs/lab-11-coordinate-multi-app-workflows-and-set-safe-automation-guard.md) | Run one workflow that spans several Workspace apps, and set permission, privacy and safety guardrails. |
-| **12** | [Monitor, Improve and Scale Your AI Agents](labs/lab-12-monitor-improve-and-scale-your-ai-agents.md) | Consolidate your assistant, monitor it from the activity log, improve weak instructions and plan to scale safely. |
+1. AI Agent Strategy and Gemini Spark Fundamentals
+2. Building Agent Skills, Tasks and Tool Integrations
+3. Agent Workflow Implementation, Scheduling and Governance
+4. Agent Monitoring, Performance Evaluation and Optimisation
 
----
+## Labs
 
-## About
+One story runs through all fifteen labs, fourteen in class and one after: you are the founder of Northstar Studio, a fictional Singapore design business, and Spark is your first hire. Each lab folder holds an instructions PDF and mock data. Copy every prompt from the [Lab Prompts page](https://tertiarycourses.github.io/C1259-AI-Agents-with-Gemini-Spark/labs/prompts.html), or open [labs/prompts.html](labs/prompts.html) offline.
 
-This repository contains the complete lab and courseware package for **AI Agents with Gemini Spark** (**C1259**) by Tertiary Courses / Tertiary Infotech. The practical activities build progressively from **Set Up Gemini Spark and Connect Your Google Workspace** to **Monitor, Improve and Scale Your AI Agents**, with explicit checks that help learners verify each result before moving on.
+<!-- LABS -->
+| Lab | Google apps | Time | Instructions |
+|---|---|---|---|
+| [Lab 1: Gmail: Hand Spark Your Inbox, Then Tell It No](labs/lab01-gmail-first-inbox-brief) | Gmail, Drive | 15 min | [PDF](labs/lab01-gmail-first-inbox-brief/LAB-01-Instructions.pdf) |
+| [Lab 2: Calendar: Catch the Double-Booking Before You Say Yes](labs/lab02-calendar-clash-guard) | Calendar | 10 min | [PDF](labs/lab02-calendar-clash-guard/LAB-02-Instructions.pdf) |
+| [Lab 3: Docs: Write the Contract Your Agent Works Under](labs/lab03-docs-agent-task-contract) | Docs, Drive | 15 min | [PDF](labs/lab03-docs-agent-task-contract/LAB-03-Instructions.pdf) |
+| [Lab 4: Skills: Teach Spark to Write Like Northstar](labs/lab04-skill-northstar-voice) | Gmail | 10 min | [PDF](labs/lab04-skill-northstar-voice/LAB-04-Instructions.pdf) |
+| [Lab 5: Sheets: Turn a Messy Export into a Dashboard](labs/lab05-sheets-launch-dashboard) | Sheets, Drive | 15 min | [PDF](labs/lab05-sheets-launch-dashboard/LAB-05-Instructions.pdf) |
+| [Lab 6: Slides: Build the Client Deck from Your Sheet](labs/lab06-slides-capability-deck) | Slides, Sheets | 15 min | [PDF](labs/lab06-slides-capability-deck/LAB-06-Instructions.pdf) |
+| [Lab 7: Sites: Spark Writes the Website, You Build and Publish It](labs/lab07-sites-launch-website) | Docs, Sites, Slides, Sheets | 20 min | [PDF](labs/lab07-sites-launch-website/LAB-07-Instructions.pdf) |
+| [Lab 8: Schedules: Close the Lid and See What Always-On Means](labs/lab08-close-the-lid-morning-brief) | Docs, Gmail, Calendar, Drive | 8 min | [PDF](labs/lab08-close-the-lid-morning-brief/LAB-08-Instructions.pdf) |
+| [Lab 9: Skills + Schedules: Weekly Posts with a No-Overlap Rule](labs/lab09-weekly-posts-no-overlap) | Docs, Drive | 8 min | [PDF](labs/lab09-weekly-posts-no-overlap/LAB-09-Instructions.pdf) |
+| [Lab 10: Monitors: One Email Updates Your Sheet and Your Drafts](labs/lab10-gmail-monitor-lead-log) | Gmail, Sheets | 7 min | [PDF](labs/lab10-gmail-monitor-lead-log/LAB-10-Instructions.pdf) |
+| [Lab 11: Sheets: Plan the Rollout, Own the Gate and the Rollback](labs/lab11-sheets-implementation-plan) | Sheets | 7 min | [PDF](labs/lab11-sheets-implementation-plan/LAB-11-Instructions.pdf) |
+| [Lab 12: Containment: Catch the Hidden Instruction in a Supplier's Doc](labs/lab12-hidden-instruction-containment) | Drive, Docs | 15 min | [PDF](labs/lab12-hidden-instruction-containment/LAB-12-Instructions.pdf) |
+| [Lab 13: Complaint: Hold the Reply, Fix One Control, Run the Same Test](labs/lab13-complaint-and-control-fix) | Gmail, Docs | 8 min | [PDF](labs/lab13-complaint-and-control-fix/LAB-13-Instructions.pdf) |
+| [Lab 14: Scorecard: Do the Maths on Whether Spark Earns Its Keep](labs/lab14-sheets-scorecard) | Sheets | 7 min | [PDF](labs/lab14-sheets-scorecard/LAB-14-Instructions.pdf) |
+| [Lab 15: After Class: Task, Then Skill, Then Schedule on Your Expense Log](labs/lab15-after-class-expense-log) | Gmail, Sheets | After class | [PDF](labs/lab15-after-class-expense-log/LAB-15-Instructions.pdf) |
+<!-- /LABS -->
 
-### What you'll learn
+## What is in this repository
 
-- Complete **12 connected hands-on activities** and carry their outputs through one coherent learning journey.
-- Practise with **Google Gemini · Google Workspace · Google Sheets · Google Docs · Google Slides** and the supporting resources supplied in the repository.
-- Begin with **Set Up Gemini Spark and Connect Your Google Workspace** and finish with **Monitor, Improve and Scale Your AI Agents**.
-- Apply safe data handling, evidence checks and named human review before using AI-generated or automated outputs.
+| Item | Files |
+|---|---|
+| Slide deck | [PPTX](courseware/AI%20Agents%20with%20Gemini%20Spark%20(C1259)-v25.pptx) · [PDF](courseware/AI%20Agents%20with%20Gemini%20Spark%20(C1259)-v25.pdf) |
+| Learner Guide | [DOCX](courseware/LG-AI%20Agents%20with%20Gemini%20Spark%20(C1259).docx) · [PDF](courseware/LG-AI%20Agents%20with%20Gemini%20Spark%20(C1259).pdf) · [Markdown](LG-AI%20Agents%20with%20Gemini%20Spark%20(C1259).md) |
+| Lesson Plan | [DOCX](courseware/LP-AI%20Agents%20with%20Gemini%20Spark%20(C1259).docx) · [PDF](courseware/LP-AI%20Agents%20with%20Gemini%20Spark%20(C1259).pdf) |
+| Labs | [labs/](labs) · [Copy-ready prompts](https://tertiarycourses.github.io/C1259-AI-Agents-with-Gemini-Spark/labs/prompts.html) |
 
-> 📖 **Full walkthrough:** see the [Learner Guide](<LG-AI Agents with Gemini Spark (C1259).md>) for the complete course narrative, and [labs/README.md](labs/README.md) for the lab index. Slides, the Learner Guide and the Lesson Plan are in [courseware/](courseware/).
+**Distribution boundary.** Everything here is public learner and trainer material. All company data in the labs is made up. Use your own personal Google Account, and keep passwords and payment details out of task threads.
 
----
-
-## Course Toolkit
-
-| Category | Details |
-|----------|---------|
-| **Duration** | 2 days · 15 instructional hours |
-| **Delivery** | Instructor-led, hands-on practical labs |
-| **Core tools** | Google Gemini · Google Workspace · Google Sheets · Google Docs · Google Slides |
-| **Practical work** | 12 connected labs with verification steps |
-| **Courseware** | PowerPoint and PDF slides, Word and PDF guides, Markdown lab instructions |
-
----
-
-## Learning Journey
-
-```text
-START
-  Lab 1    Set Up Gemini Spark and Connect Your Google Workspace
-     │
-     ▼
-  Connected Practical Labs
-  Labs 1–12
-     │
-     ▼
-FINISH
-  Lab 12   Monitor, Improve and Scale Your AI Agents
-```
-
----
-
-## Project Structure
-
-```text
-C1259---AI-Agents-with-Gemini-Spark/
-├── README.md
-├── LG-AI Agents with Gemini Spark (C1259).md
-│
-├── labs/
-│   ├── README.md                 # Start here: complete lab index
-│   └── lab-*.md                    # 12 connected practical activities
-│
-└── courseware/
-    ├── *.pptx / *.pdf             # Trainer and learner slides
-    ├── LG-*.docx / LG-*.pdf       # Learner Guide
-    └── LP-*.docx / LP-*.pdf       # Lesson Plan
-```
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- The accounts and software required for **Google Gemini · Google Workspace · Google Sheets · Google Docs · Google Slides**. Follow the setup and access notes in each lab.
-- Review [`labs/tools.md`](labs/tools.md) before class for environment, account and safe-use requirements.
-- A modern web browser and Git for cloning the materials.
-- Synthetic or authorised data only. Do not place secrets, personal data or confidential material into an unapproved service.
-- A named human reviewer for facts, calculations, decisions and any externally released output.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/tertiarycourses/C1259---AI-Agents-with-Gemini-Spark.git
-cd C1259---AI-Agents-with-Gemini-Spark
-```
-
-### 2. Open the lab index
-
-Start with [labs/README.md](labs/README.md), then complete Labs 1–12 in order. Each lab provides the activity context, practical steps and a way to verify the result.
-
-### 3. Keep your connected outputs
-
-Store each lab output in the suggested working folder and retain the evidence or review notes requested by the lab. Later activities depend on these approved outputs.
-
----
-
-## Contributing
-
-Contributions, corrections and improvements are welcome:
-
-1. **Fork** the repository.
-2. Create a feature branch: `git checkout -b feature/my-improvement`.
-3. Commit your changes: `git commit -m "Add my improvement"`.
-4. Push the branch: `git push origin feature/my-improvement`.
-5. Open a **Pull Request**.
-
-Found a bug or have an idea? Open an [issue](https://github.com/tertiarycourses/C1259---AI-Agents-with-Gemini-Spark/issues).
-
----
-
-## License
-
-This material is provided for **educational use** as part of the commercial course **AI Agents with Gemini Spark (C1259)**. © Tertiary Infotech Pte. Ltd. All rights reserved.
-
----
-
-## Developed By
-
-**Tertiary Infotech Pte. Ltd.** — [Tertiary Courses](https://www.tertiarycourses.com.sg)<br>
-Course: [AI Agents with Gemini Spark (C1259)](https://www.tertiarycourses.com.sg/ai-agents-with-gemini-spark.html)
-
-## Acknowledgements
-
-- The teams behind Google Gemini · Google Workspace · Google Sheets · Google Docs · Google Slides.
-- Course trainers and learners of C1259.
-
----
-
-<div align="center">
-
-⭐ **If these materials helped you learn AI Agents with Gemini Spark, star the repository!**
-
-Powered by [Tertiary Infotech Academy Pte Ltd](https://www.tertiaryinfotech.com/)
-
-[📘 Course Page](https://www.tertiarycourses.com.sg/ai-agents-with-gemini-spark.html) · [🧪 Hands-On Labs](labs/README.md) · [📖 Learner Guide](<LG-AI Agents with Gemini Spark (C1259).md>)
-
-</div>
+Provided by [Tertiary Infotech Academy Pte Ltd](https://www.tertiaryinfotech.com/) · UEN 201200696W · enquiry@tertiaryinfotech.com

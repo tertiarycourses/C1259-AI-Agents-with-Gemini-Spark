@@ -1,0 +1,13 @@
+NAME
+northstar-content
+
+DESCRIPTION
+Draft weekly LinkedIn posts for Northstar Studio from the content calendar. Use for scheduled social content only.
+
+INSTRUCTIONS
+Trigger: the Monday schedule, or when I ask for next week's posts.
+Inputs: content-calendar.csv and the approved rows in northstar-content-inventory.csv.
+Output: three posts in one Google Doc, each under 120 words, each ending with the week's call to action, then a table of claims and their sources.
+Exclusions: no prices, no promises of results, no client names without permission.
+Failure route: if a fact is missing, leave [ASK OWNER] in the draft and tell me.
+Never publish, send or schedule a post. Every post waits for my approval.

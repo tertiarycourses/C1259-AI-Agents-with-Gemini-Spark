@@ -1,0 +1,13 @@
+Send these to yourself. Fictional.
+
+EMAIL 1
+Subject: [NORTHSTAR-LAB] Receipt: Example Hosting S$24.00
+Thanks for your payment. Vendor: Example Hosting. Date: 2 Nov 2026. Amount: S$24.00.
+
+EMAIL 2
+Subject: [NORTHSTAR-LAB] Receipt: Paya Lebar Prints S$96.40
+Thanks for your order. Vendor: Paya Lebar Prints. Date: 5 Nov 2026. Amount: S$96.40.
+
+EMAIL 3
+Subject: [NORTHSTAR-LAB] Receipt: Example Stock Images S$48.00
+Thanks for your purchase. Vendor: Example Stock Images. Date: 6 Nov 2026. Amount: S$48.00.
